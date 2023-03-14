@@ -29,4 +29,4 @@
 - **Fleiss' Kappa** : 0.79
 - **Micro F1** : 57.2581
 - **AUPRC** : 60.4493
--  Selected as **Novel King**
+-  Selected as **Noble King**
